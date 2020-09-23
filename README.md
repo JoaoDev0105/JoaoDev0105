@@ -3,7 +3,10 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/JoaoDev0105/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
+
  <p align="center">Estatísticas no GitHub geradas dinamicamente em meus readmes!</p>
+
+
 </p>
   <p align="center">
     <a href="https://github.com/JoaoDev0105/github-readme-stats/actions">
