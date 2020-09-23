@@ -43,7 +43,7 @@
 <p align="center">Loved the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![JoaoPaulo github stats](https://github-readme-stats.vercel.app/api?username=JoaoDev0105&show_icons=true&theme=dracula)
 <!--
 **JoaoDev0105/JoaoDev0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
