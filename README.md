@@ -1,35 +1,25 @@
 ### Hi there 👋
+
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/JoaoDev0105/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+ <p align="center">Estatísticas no GitHub geradas dinamicamente em meus readmes!</p>
 </p>
-<p align="center">
-    <br />
-    <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p>
-
   <p align="center">
-    <a href="#demo">View Demo</a>
-    ·
-    <a href="https://github.com/JoaoDev0105/github-readme-stats/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/JoaoDev0105/github-readme-stats/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/JoaoDev0105/github-readme-stats/actions">
+      <img alt="Testes aprovados" src="https://github.com/JoaoDev0105/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://codecov.io/gh/JoaoDev0105/github-readme-stats">
+      <img src="https://codecov.io/gh/JoaoDev0105/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/JoaoDev0105/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/JoaoDev0105/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/JoaoDev0105/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/JoaoDev0105/github-readme-stats?color=0088ff" />
+    </a>
+    <br />
   </p>
-  <p align="center">
-    .
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    .
-  </p>
-</p>
-<p align="center">Loved the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
-
 
 ![JoaoPaulo github stats](https://github-readme-stats.vercel.app/api?username=JoaoDev0105&show_icons=true&theme=dracula)
 
