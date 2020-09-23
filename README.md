@@ -4,7 +4,7 @@
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
-<p>
+<p align="center">
     <br />
     <br />
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
@@ -18,9 +18,9 @@
   <p align="center">
     <a href="#demo">View Demo</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/JoaoDev0105/github-readme-stats/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/JoaoDev0105/github-readme-stats/issues/new/choose">Request Feature</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
