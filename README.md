@@ -23,7 +23,7 @@
 
 ![JoaoPaulo github stats](https://github-readme-stats.vercel.app/api?username=JoaoDev0105&show_icons=true&theme=dracula)
 
-### 🔭 I’m currently working on ...
+### 🔭 I’m currently working on projects personal in React - React-Native - Node.js - Html - CSS - JS
 <!--
 **JoaoDev0105/JoaoDev0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
