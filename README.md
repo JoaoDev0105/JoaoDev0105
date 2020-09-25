@@ -24,7 +24,7 @@
   <h2>
     !!Site do Portifólio!!!
   </h2>
-![Site](https://dev-portifolio.vercel.app/)
+🌱 https://dev-portifolio.vercel.app
 
 ![JoaoPaulo github stats](https://github-readme-stats.vercel.app/api?username=JoaoDev0105&show_icons=true&theme=dracula)
 
