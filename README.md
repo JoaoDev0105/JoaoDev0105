@@ -22,13 +22,15 @@
   </p>
 
   <h2>
-    Site do Portifólio
+    Site do Portifólio!!!
   </h2>
 ![Site](https://dev-portifolio.vercel.app/)
 
 ![JoaoPaulo github stats](https://github-readme-stats.vercel.app/api?username=JoaoDev0105&show_icons=true&theme=dracula)
 
+
 ### 🔭 I’m currently working on Projects personal in React - React-Native - Node.Js - Html - Css - JS
+
 <!--
 **JoaoDev0105/JoaoDev0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
