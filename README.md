@@ -9,9 +9,6 @@
 
 </p>
   <p align="center">
-    <a href="https://github.com/JoaoDev0105/github-readme-stats/actions">
-      <img alt="Testes aprovados" src="https://github.com/JoaoDev0105/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
     <a href="https://codecov.io/gh/JoaoDev0105/github-readme-stats">
       <img src="https://codecov.io/gh/JoaoDev0105/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
