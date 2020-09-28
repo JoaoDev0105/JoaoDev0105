@@ -46,6 +46,14 @@
   </h1>
   <p> Project created in 2017 by developers, alumni, makers and by loveing tecnologic.  </P>
   <p> Adress:  R. Eng. Prestes Maia, 88 - Centro, Guarulhos - SP, 07023-070 </p>
+  <ul>
+    <li><img alt="website" src="./src/assets/ft-1.png" /> </li>
+    <li><img alt="website" src="./src/assets/ft-2.png" /></li>
+    <li><img alt="website" src="./src/assets/ft-3.png" /> </li>
+    <li><img alt="website" src="./src/assets/ft-4.png" /> </li>
+    <li><img alt="website" src="./src/assets/ft-5.png" /> </li>
+  </ul>
+  
 </div>
 <!--
 **JoaoDev0105/JoaoDev0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
