@@ -4,7 +4,7 @@
   
  <h2 align="center">GitHub Readme Stats</h2>
 
- <p align="center">Estatísticas no GitHub geradas dinamicamente em meus readmes!</p>
+ <p align="center">GitHub statistics generated dynamically in my readmes!</p>
 
 
 </p>
